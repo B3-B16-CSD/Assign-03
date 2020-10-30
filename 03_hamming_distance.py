@@ -26,13 +26,7 @@ import unittest
 
 
 def hamming_distance(x, y):
-    b = format(x, '0200b')
-    b1 = format(y, '0200b')
-    c = 0
-    for i in range(0, len(b)):
-        if b[i] != b1[i]:
-            c += 1
-    return c
+    
 
 
 # DO NOT TOUCH THE BELOW CODE

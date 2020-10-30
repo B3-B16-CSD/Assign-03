@@ -25,14 +25,7 @@ import unittest
 
 
 def connell_sequence(n):
-    l = [1]
-    i = 1
-    while len(l) <= n:
-        l.append(l[-1]+1)
-        for j in range(i):
-            l.append(l[-1]+2)
-        i += 1
-    return l[n]
+   
 
 
 # DO NOT TOUCH THE BELOW CODE

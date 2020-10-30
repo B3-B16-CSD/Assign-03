@@ -19,15 +19,7 @@ import unittest
 
 
 def list_min_replacement(nums):
-    l = []
-    for i, j in enumerate(nums):
-        if i == 0:
-            l.append(0)
-            m = j
-        else:
-            l.append(m)
-            m = min(m, j)
-    return l
+    
 
 
 # DO NOT TOUCH THE BELOW CODE

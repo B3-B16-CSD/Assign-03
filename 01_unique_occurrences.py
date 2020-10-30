@@ -53,13 +53,7 @@ from collections import Counter
 
 
 def unique_occurrences(nums):
-    l = list(set(nums))
-    nl = []
-    for i in l:
-        nl.append(nums.count(i))
-    if len(nl) == len(set(nl)):
-        return True
-    return False
+    
 
 
 # DO NOT TOUCH THE BELOW CODE
