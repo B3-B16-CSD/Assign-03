@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "python3 01_empty_cells.py",
+      "setup": "",
+      "run": "python3 01_empty_cells.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "python3 02_flip_123.py",
+      "setup": "",
+      "run": "python3 02_flip_123.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "python3 03_and_one.py",
+      "setup": "",
+      "run": "python3 03_and_one.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "python3 04_css_trick.py",
+      "setup": "",
+      "run": "python3 04_css_trick.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "python3 05_dot_product.py",
+      "setup": "",
+      "run": "python3 05_dot_product.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "python3 06_high_frequency.py",
+      "setup": "",
+      "run": "python3 06_high_frequency.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "python3 07_long_distance.py",
+      "setup": "",
+      "run": "python3 07_long_distance.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "python3 08_even_odd_sort.py",
+      "setup": "",
+      "run": "python3 08_even_odd_sort.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "python3 09_set_bits.py",
+      "setup": "",
+      "run": "python3 09_set_bits.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 20
+    },
+    {
+      "name": "python3 10_balanced_brackets.py",
+      "setup": "",
+      "run": "python3 10_balanced_brackets.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 30
+    }
+  ]
+}
